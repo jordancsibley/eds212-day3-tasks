@@ -1,0 +1,30 @@
+---
+title: "Day 3 end of day tasks"
+author: "Jordan"
+format: html
+editor: visual
+---
+
+## Part 2: Coding Practice 
+
+```{r}
+# creating two new vectors ----
+vec_a <- c(1,6)
+vec_b <- c(2,4)
+
+# checking our by-hand work ----
+# a + b 
+vec_a + vec_b 
+
+#b - a 
+vec_b - vec_a 
+
+# 2a 
+vec_a * 2
+
+# a * b 
+vec_a %*% vec_b
+
+# It all looks good!
+```
+
